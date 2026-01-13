@@ -1,0 +1,439 @@
+[
+    {
+        "opponent": "Manchester United",
+        "score": "0 - 1",
+        "date": "17.08.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Leeds United",
+        "score": "5 - 0",
+        "date": "23.08.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Liverpool",
+        "score": "1 - 0",
+        "date": "30.08.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Nottingham Forest",
+        "score": "3 - 0",
+        "date": "13.09.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Athletic Bilbao",
+        "score": "0 - 2",
+        "date": "16.09.2025",
+        "competition": "Liga mistrů",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Manchester City",
+        "score": "1 - 1",
+        "date": "21.09.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Port Vale",
+        "score": "0 - 2",
+        "date": "24.09.2025",
+        "competition": "EFL Cup",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Newcastle United",
+        "score": "1 - 2",
+        "date": "28.09.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Olympiacos",
+        "score": "2 - 0",
+        "date": "01.10.2025",
+        "competition": "Liga mistrů",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "West Ham United",
+        "score": "2 - 0",
+        "date": "04.10.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Fulham",
+        "score": "0 - 1",
+        "date": "18.10.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Atlético Madrid",
+        "score": "4 - 0",
+        "date": "21.10.2025",
+        "competition": "Liga mistrů",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Crystal Palace",
+        "score": "1 - 0",
+        "date": "26.10.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Brighton",
+        "score": "2 - 0",
+        "date": "29.10.2025",
+        "competition": "EFL Cup",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Burnley",
+        "score": "0 - 2",
+        "date": "01.11.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Slavia Praha",
+        "score": "0 - 3",
+        "date": "04.11.2025",
+        "competition": "Liga mistrů",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Sunderland",
+        "score": "2 - 2",
+        "date": "08.11.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Tottenham Hotspur",
+        "score": "4 - 1",
+        "date": "23.11.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Bayern Mnichov",
+        "score": "3 - 1",
+        "date": "26.11.2025",
+        "competition": "Liga mistrů",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Chelsea",
+        "score": "1 - 1",
+        "date": "30.11.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Brentford",
+        "score": "2 - 0",
+        "date": "03.12.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Aston Villa",
+        "score": "2 - 1",
+        "date": "06.12.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Club Brugge",
+        "score": "0 - 3",
+        "date": "10.12.2025",
+        "competition": "Liga mistrů",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Wolverhampton",
+        "score": "2 - 1",
+        "date": "13.12.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Everton",
+        "score": "0 - 1",
+        "date": "20.12.2025",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Crystal Palace",
+        "score": "1 - 1 (8:7 pen.)",
+        "date": "23.12.2025",
+        "competition": "EFL Cup (ČF)",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Brighton",
+        "score": "2 - 1",
+        "date": "27.12.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Aston Villa",
+        "score": "4 - 1",
+        "date": "30.12.2025",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Bournemouth",
+        "score": "2 - 3",
+        "date": "03.01.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Liverpool",
+        "score": "0 - 0",
+        "date": "08.01.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "played"
+    },
+    {
+        "opponent": "Portsmouth",
+        "score": "1 - 4",
+        "date": "11.01.2026",
+        "competition": "FA Cup",
+        "venue": "Away",
+        "status": "played"
+    },
+    {
+        "opponent": "Chelsea",
+        "score": "-",
+        "time": "21:00",
+        "date": "14.01.2026",
+        "competition": "EFL Cup (SF)",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Nottingham Forest",
+        "score": "-",
+        "time": "18:30",
+        "date": "17.01.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Inter Milán",
+        "score": "-",
+        "time": "21:00",
+        "date": "20.01.2026",
+        "competition": "Liga mistrů",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Manchester United",
+        "score": "-",
+        "time": "17:30",
+        "date": "25.01.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "FK Kajrat",
+        "score": "-",
+        "time": "21:00",
+        "date": "28.01.2026",
+        "competition": "Liga mistrů",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Leeds United",
+        "score": "-",
+        "time": "16:00",
+        "date": "31.01.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Chelsea",
+        "score": "-",
+        "time": "21:00",
+        "date": "03.02.2026",
+        "competition": "EFL Cup (SF)",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Sunderland",
+        "score": "-",
+        "time": "16:00",
+        "date": "07.02.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Brentford",
+        "score": "-",
+        "time": "21:00",
+        "date": "12.02.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Tottenham Hotspur",
+        "score": "-",
+        "time": "17:30",
+        "date": "22.02.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Chelsea",
+        "score": "-",
+        "time": "16:00",
+        "date": "28.02.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Brighton",
+        "score": "-",
+        "time": "21:00",
+        "date": "04.03.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Everton",
+        "score": "-",
+        "time": "16:00",
+        "date": "14.03.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Wolverhampton",
+        "score": "-",
+        "time": "16:00",
+        "date": "21.03.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Bournemouth",
+        "score": "-",
+        "time": "16:00",
+        "date": "11.04.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Manchester City",
+        "score": "-",
+        "time": "16:00",
+        "date": "18.04.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Newcastle United",
+        "score": "-",
+        "time": "16:00",
+        "date": "25.04.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Fulham",
+        "score": "-",
+        "time": "16:00",
+        "date": "02.05.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "West Ham United",
+        "score": "-",
+        "time": "16:00",
+        "date": "09.05.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Burnley",
+        "score": "-",
+        "time": "17:00",
+        "date": "17.05.2026",
+        "competition": "Premier League",
+        "venue": "Home",
+        "status": "upcoming"
+    },
+    {
+        "opponent": "Crystal Palace",
+        "score": "-",
+        "time": "17:00",
+        "date": "24.05.2026",
+        "competition": "Premier League",
+        "venue": "Away",
+        "status": "upcoming"
+    }
+]

@@ -1,0 +1,75 @@
+:root {
+  --arsenal-red: #EF0107;
+  --arsenal-dark-red: #c20106;
+  --arsenal-white: #FFFFFF;
+  --arsenal-blue: #063672;
+  --arsenal-dark-blue: #04244d;
+  --arsenal-gold: #9C824A;
+  --arsenal-gold-light: #bfa568;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8fafc;
+  color: #1f2937;
+}
+
+.bg-arsenal-red {
+  background-color: var(--arsenal-red);
+}
+
+.bg-arsenal-blue {
+  background-color: var(--arsenal-blue);
+}
+
+.bg-arsenal-gold {
+  background-color: var(--arsenal-gold);
+}
+
+.text-arsenal-red {
+  color: var(--arsenal-red);
+}
+
+.text-arsenal-blue {
+  color: var(--arsenal-blue);
+}
+
+.text-arsenal-gold {
+  color: var(--arsenal-gold);
+}
+
+.arsenal-gradient-hero {
+  background: linear-gradient(135deg, rgba(6, 54, 114, 0.9) 0%, rgba(239, 1, 7, 0.8) 100%);
+}
+
+.arsenal-gradient-card {
+  background: linear-gradient(180deg, #ffffff 0%, #fdfbf7 100%);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, var(--arsenal-red), var(--arsenal-blue));
+  border-radius: 5px;
+  border: 2px solid #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, var(--arsenal-dark-red), var(--arsenal-dark-blue));
+}
+
+.btn-arsenal {
+  background: linear-gradient(to right, var(--arsenal-red), #d90106);
+  box-shadow: 0 4px 6px -1px rgba(239, 1, 7, 0.3), 0 2px 4px -1px rgba(239, 1, 7, 0.15);
+}
+
+.btn-arsenal:hover {
+  background: linear-gradient(to right, #d90106, var(--arsenal-red));
+  box-shadow: 0 10px 15px -3px rgba(239, 1, 7, 0.4), 0 4px 6px -2px rgba(239, 1, 7, 0.2);
+}
